@@ -13,6 +13,9 @@ public class Getwxacode {
 	public String getPath() {
 		return path;
 	}
+	public void setPath(String path){
+		this.path = path;
+	}
 
 	public void setScene(String path) {
 		this.path = path;
